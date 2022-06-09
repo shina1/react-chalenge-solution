@@ -1,0 +1,15 @@
+/* background-color: #282c34; */
+.container-box{
+    padding: 20px;
+}
+
+.btn{
+   border: none; 
+   padding: 10px;
+   text-align: center;
+   background: #282c34;
+   color: #fff;
+   margin: 20px 10px;
+   border-radius: 50px;
+   cursor: pointer;
+}
